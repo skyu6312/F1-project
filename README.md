@@ -38,6 +38,14 @@
 
 ---
 
+
+<img width="996" height="547" alt="Step1 output" src="https://github.com/user-attachments/assets/d1fb5736-01e1-4673-88ae-d2eb68eddbb7" />
+
+
+<img width="1010" height="547" alt="Step2 output" src="https://github.com/user-attachments/assets/ff1b8ccd-fa05-447a-a818-692131832fd0" />
+
+
+
 ## 🎯 Key Findings & Model Performance
 
 The Machine Learning model (Linear Regression) successfully quantifies the F1 race pace and tire degradation mechanics during the 2025 Canadian Grand Prix, achieving high predictive accuracy by decoupling vehicular physics from environmental factors.
